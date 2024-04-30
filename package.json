@@ -1,6 +1,6 @@
 {
-  "name": "@midudev/tailwind-animations",
-  "version": "0.0.7",
+  "name": "@adrianetti/tailwind-animations",
+  "version": "0.0.1",
   "description": "Tailwind CSS plugin to add animations to your website",
   "main": "./src/index.js",
   "type": "module",
@@ -11,7 +11,7 @@
     "test:ci": "vitest run"
   },
   "keywords": [],
-  "author": "Miguel Ángel Durán (@midudev) & su maravillosa comunidad",
+  "author": "Miguel Ángel Durán (@midudev)",
   "license": "MIT",
   "devDependencies": {
     "postcss": "8.4.35",
